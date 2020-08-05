@@ -1,5 +1,5 @@
 # SimpleTodo
-A simple todo task app for codePath
+A simple todo task Android app for codePath
 
 ## Functions
 - add task
