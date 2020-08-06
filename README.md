@@ -20,7 +20,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] TBD
+* [ ] Create a checkbox for each task
+* [ ] Support subtasks
 
 ## Video Walkthrough
 
@@ -33,7 +34,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Recycler View - ItemsAdapter
+Built my first ever Android App.
+Learned how to use Recycler View by creating an adapter class.
+Learned how to communicate between different activites and pass data using Intent.
 
 ## License
 
